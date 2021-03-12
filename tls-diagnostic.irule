@@ -1,6 +1,6 @@
 #################################################################################
 #        Overview:
-#        TLS-logger - Diagnostic/educational tool for exploring SSL traffic with iRules
+#        TLS-logger - Diagnostic/educational tool for exploring TLS traffic with iRules
 #
 #        The following irule when applied to a virtual server will provide the following log information. 
 #        This iRule can be used to troubleshoot cipher issues in your production environment.
